@@ -19,5 +19,6 @@ public class TestLog4j {
             logger.fatal("致命信息");
         }
         System.out.println("test_git");
+        System.out.println("haha");
     }
 }
