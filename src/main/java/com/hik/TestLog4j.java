@@ -18,7 +18,7 @@ public class TestLog4j {
             logger.error("错误信息");
             logger.fatal("致命信息");
         }
-        System.out.println("test_git");
+        System.out.println("test");
         System.out.println("mm");
     }
 }
