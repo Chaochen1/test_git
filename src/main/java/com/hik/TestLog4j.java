@@ -19,6 +19,6 @@ public class TestLog4j {
             logger.fatal("致命信息");
         }
         System.out.println("test");
-        System.out.println("u");
+        System.out.println("gg");
     }
 }
